@@ -1,0 +1,35 @@
+.table {
+  width: 500px;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+th {
+  color: #fff;
+  background-color: black;
+  border: 2px solid black;
+}
+
+td {
+  border: 2px solid black;
+  font-weight: bold;
+}
+
+.payment {
+  background-color: #c8e6c9;
+}
+
+.deposit {
+  background-color: #ffecb3;
+}
+
+.withdrawal {
+  background-color: #ffccbc;
+}
+
+.invoice {
+  background-color: #bbdefb;
+}
+
+.other {
+  background-color: #f8bbd0;
+}
